@@ -1,11 +1,12 @@
-- 👋 Hi, I’m  >> Mario David Gonzalez <<  @elavincho
+#  Hi, I’m David @elavincho 👋
 
   
 - 👀 I love programming and new challenges.
 
   
-- 🌱 I’m currently learning   | JAVA | PYTHON | 
+- 🌱 I’m currently learning   | JAVA | SPRING | 
 
+- I'm studing TECNICATURA EN DESARROLLO DE SOFTWARE at IFTS N° 29.
 
 - 📫 How to reach me elavincho@gmail.com
 
