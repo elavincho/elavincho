@@ -19,9 +19,17 @@
                     
 <br>
 
-### Stadistics
+### Statistics
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0bb30ee64c0029d6bc83464202e7ae23001eb08c34b7519a43640d208b7b1557/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636f6e646f72636f646572732673686f775f69636f6e733d74727565267468656d653d6461726b"><img src="https://camo.githubusercontent.com/0bb30ee64c0029d6bc83464202e7ae23001eb08c34b7519a43640d208b7b1557/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636f6e646f72636f646572732673686f775f69636f6e733d74727565267468656d653d6461726b" alt="elavincho' GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=elavincho&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c4d543f0cc092652c288ac7b9182eb9526483a768c9f02969714a74ee5e0285b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d636f6e646f72636f64657273266c61796f75743d636f6d70616374267468656d653d6461726b"><img src="https://camo.githubusercontent.com/c4d543f0cc092652c288ac7b9182eb9526483a768c9f02969714a74ee5e0285b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d636f6e646f72636f64657273266c61796f75743d636f6d70616374267468656d653d6461726b" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=elavincho&amp;layout=compact&amp;theme=dark" style="max-width: 100%;"></a></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elavincho&layout=compact&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elavincho&show_icons=true&theme=dark)
+
+<br>
+
+### My Proyects
+
+
 
 <!---
 elavincho/elavincho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
