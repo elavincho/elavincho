@@ -29,7 +29,7 @@
 
 ### My Proyects
 
-<a href="https://elavinchoweb.netlify.app/" target="_blank" rel="noreferrer"><img src="logo-elavincho.ico" width="36" height="36" alt="elavincho-web"/></a>   <a href="https://codedrinks.netlify.app/" target="_blank" rel="noreferrer"><img src="logoCodeDrinksNegro.ico" width="36" height="36" alt="codeDrinks"/></a>   <a href="https://accreaciones.netlify.app/" target="_blank" rel="noreferrer"><img src="logo_ac_cuadrado.png" width="36" height="36" alt="ac-creaciones"/></a>   <a href="https://lfconstrucciones.com.ar/" target="_blank" rel="noreferrer"><img src="logo-ok.png" width="36" height="36" alt="lf-construcciones" /></a>
+<a href="https://elavinchoweb.netlify.app/" target="_blank" rel="noreferrer"><img src="logo-elavincho.ico" width="36" height="36" alt="elavincho-web" target="_blank"/></a>   <a href="https://codedrinks.netlify.app/" target="_blank" rel="noreferrer"><img src="logoCodeDrinksNegro.ico" width="36" height="36" alt="codeDrinks" target="_blank"/></a>   <a href="https://accreaciones.netlify.app/" target="_blank" rel="noreferrer"><img src="logo_ac_cuadrado.png" width="36" height="36" alt="ac-creaciones"/></a>   <a href="https://lfconstrucciones.com.ar/" target="_blank" rel="noreferrer"><img src="logo-ok.png" width="36" height="36" alt="lf-construcciones" /></a>
 <!---
 elavincho/elavincho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
