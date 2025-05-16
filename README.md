@@ -1,4 +1,4 @@
-![Banner elavincho](banner-elavincho)
+![Banner elavincho](banner-elavincho.png)
 
 <br>
 
