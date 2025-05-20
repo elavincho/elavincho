@@ -1,4 +1,4 @@
-![Banner_elavincho](bannerelavincho.png)
+![Banner_elavincho](banner.png)
 <br>
 
 #  Hi, I’m David @elavincho 👋
