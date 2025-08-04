@@ -6,7 +6,7 @@
   
 - 👀 I love programming and new challenges.
   
-- 🌱 I’m currently learning   | JAVA | SPRING | 
+- 🌱 I’m currently learning   | JAVA | SPRING | JS | MyQSL
 
 - 📖I'm studing TECNICATURA EN DESARROLLO DE SOFTWARE at IFTS N° 29.
 
