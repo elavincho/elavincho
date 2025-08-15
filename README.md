@@ -64,7 +64,9 @@
 
 <a href="https://github.com/elavincho/rickandmortyapi" target="blank"><img src="https://github.com/elavincho/rickandmortyapi/blob/master/img/logo.png" width="75px" height="75px" alt="rick_and_morty"/></a>   <a href="https://github.com/elavincho/pokeapi" target="blank"><img src="https://github.com/elavincho/pokeapi/blob/master/img/back.webp" width="50px" height="75px" alt="pokemon"/></a>   <a href="https://github.com/elavincho/InteractiveWeatherApp" target="blank"><img src="https://github.com/elavincho/InteractiveWeatherApp/blob/master/assets/Captura_de_pantalla_1.png" width="75px" height="75px" alt="weatherapp"/></a>   <a href="https://github.com/elavincho/FakeStoreAPI" target="blank"><img src="https://github.com/elavincho/FakeStoreAPI/blob/master/img/Captura_de_pantalla_1.png" width="75px" height="75px" alt="fake_store_api"/></a>
 
+### Consumir una API con React
 
+<a href="https://github.com/elavincho/ReactRickAndMorty" target="blank"><img src="https://github.com/elavincho/rickandmortyapi/blob/master/img/logo.png" width="75px" height="75px" alt="rick_and_morty"/></a>   <a href="https://github.com/elavincho/ReactVentasApp" target="blank"><img src="https://github.com/elavincho/pokeapi/blob/master/img/back.webp" width="50px" height="75px" alt="pokemon"/></a>
 
 
 
