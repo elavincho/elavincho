@@ -6,7 +6,7 @@
   
 - 👀 Me gusta programar y los nuevos desafios.
   
-- 🌱 Estoy aprendiendo y haciendo proyectos en  | JAVA | SPRING | MySQL | JAVASCRIPT |
+- 🌱 Estoy aprendiendo y haciendo proyectos con  | JAVA | SPRING | MySQL | JAVASCRIPT |
 
 - 📖 Actualmente estoy haciendo la Técnicatura en Desarrollo de Software en el IFTS N° 29
 
