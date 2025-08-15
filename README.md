@@ -47,26 +47,26 @@
 <a href="https://github.com/elavincho/LoginJavaSwing" target="blank"><img src="https://github.com/elavincho/LoginJavaSwing/blob/master/img/Captura_de_pantalla_1.png" width="75px" height="75px" alt="login"/></a>
 <a href="https://github.com/elavincho/PeluqueriaCanina" target="blank"><img src="https://github.com/elavincho/PeluqueriaCanina/blob/master/img/Captura_de_pantalla_1.png" width="75px" height="75px" alt="pelu_canina"/></a>
 <a href="https://github.com/elavincho/iLIB_Biblioteca" target="blank"><img src="https://github.com/elavincho/iLIB_Biblioteca/blob/master/img/Captura_de_pantalla_1.png" width="75px" height="75px" alt="ilib"/></a>
-<a href="https://github.com/elavincho/SistemaRolesPermisos" target="blank"><img src="https://github.com/elavincho/SistemaRolesPermisos/blob/master/img/Captura_de_pantalla_1.png" width="75px" height="75px" alt="roles_permisos"/></a>
+<a href="https://github.com/elavincho/SistemaRolesPermisos" target="_blank"><img src="https://github.com/elavincho/SistemaRolesPermisos/blob/master/img/Captura_de_pantalla_1.png" width="75px" height="75px" alt="roles_permisos"/></a>
 
 ### HTML + CSS + JavaScript
 
 <a href="https://elavinchoweb.netlify.app/" rel="noreferrer" target="_blank"><img src="logo-elavincho.ico" width="75px" height="75px" alt="elavincho-web"/></a>
-<a href="https://github.com/elavincho/ACCreaciones2.0" target="blank" target="_blank"><img src="logo_ac_cuadrado.png" width="75px" height="75px" alt="ac-creaciones"/></a>
-<a href="https://github.com/elavincho/LFConstrucciones" target="blank"><img src="logo-ok.png" width="75px" height="75px" alt="lf-construcciones"/></a>
-<a href="https://github.com/elavincho/CodeDrinks" target="blank" target="_blank"><img src="logoCodeDrinksNegro.ico" width="75px" height="75px" alt="codeDrinks"/></a>
+<a href="https://github.com/elavincho/ACCreaciones2.0" target="_blank"><img src="logo_ac_cuadrado.png" width="75px" height="75px" alt="ac-creaciones"/></a>
+<a href="https://github.com/elavincho/LFConstrucciones" target="_blank"><img src="logo-ok.png" width="75px" height="75px" alt="lf-construcciones"/></a>
+<a href="https://github.com/elavincho/CodeDrinks" target="_blank"><img src="logoCodeDrinksNegro.ico" width="75px" height="75px" alt="codeDrinks"/></a>
 
 ### Juegos con JavaScript
 
-<a href="https://github.com/elavincho/TragaMonedas2.0" target="blank"><img src="https://github.com/elavincho/TragaMonedas2.0/blob/master/images/Captura_de_pantalla_1.png" width="75px" height="75px" alt="tragamonedas"/></a> <a href="https://github.com/elavincho/GameOne" target="blank"><img src="https://github.com/elavincho/GameOne/blob/master/assets/img1.png" width="75px" height="75px" alt="game_2D"/></a>   
+<a href="https://github.com/elavincho/TragaMonedas2.0" target="_blank"><img src="https://github.com/elavincho/TragaMonedas2.0/blob/master/images/Captura_de_pantalla_1.png" width="75px" height="75px" alt="tragamonedas"/></a> <a href="https://github.com/elavincho/GameOne" target="_blank"><img src="https://github.com/elavincho/GameOne/blob/master/assets/img1.png" width="75px" height="75px" alt="game_2D"/></a>   
 
 ### Consumir una API con JavaScript
 
-<a href="https://github.com/elavincho/rickandmortyapi" target="blank"><img src="https://github.com/elavincho/rickandmortyapi/blob/master/img/logo.png" width="75px" height="75px" alt="rick_and_morty"/></a>   <a href="https://github.com/elavincho/pokeapi" target="blank"><img src="https://github.com/elavincho/pokeapi/blob/master/img/back.webp" width="50px" height="75px" alt="pokemon"/></a>   <a href="https://github.com/elavincho/InteractiveWeatherApp" target="blank"><img src="https://github.com/elavincho/InteractiveWeatherApp/blob/master/assets/Captura_de_pantalla_1.png" width="75px" height="75px" alt="weatherapp"/></a>   <a href="https://github.com/elavincho/FakeStoreAPI" target="blank"><img src="https://github.com/elavincho/FakeStoreAPI/blob/master/img/Captura_de_pantalla_1.png" width="75px" height="75px" alt="fake_store_api"/></a>
+<a href="https://github.com/elavincho/rickandmortyapi" target="_blank"><img src="https://github.com/elavincho/rickandmortyapi/blob/master/img/logo.png" width="75px" height="75px" alt="rick_and_morty"/></a>   <a href="https://github.com/elavincho/pokeapi" target="_blank"><img src="https://github.com/elavincho/pokeapi/blob/master/img/back.webp" width="50px" height="75px" alt="pokemon"/></a>   <a href="https://github.com/elavincho/InteractiveWeatherApp" target="_blank"><img src="https://github.com/elavincho/InteractiveWeatherApp/blob/master/assets/Captura_de_pantalla_1.png" width="75px" height="75px" alt="weatherapp"/></a>   <a href="https://github.com/elavincho/FakeStoreAPI" target="_blank"><img src="https://github.com/elavincho/FakeStoreAPI/blob/master/img/Captura_de_pantalla_1.png" width="75px" height="75px" alt="fake_store_api"/></a>
 
 ### Consumir una API con React
 
-<a href="https://github.com/elavincho/ReactRickAndMorty" target="blank"><img src="https://github.com/elavincho/rickandmortyapi/blob/master/img/logo.png" width="75px" height="75px" alt="rick_and_morty"/></a>   <a href="https://github.com/elavincho/ReactVentasApp" target="blank"><img src="https://github.com/elavincho/pokeapi/blob/master/img/back.webp" width="50px" height="75px" alt="pokemon"/></a>
+<a href="https://github.com/elavincho/ReactRickAndMorty" target="blank"><img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/rick_morty.png" width="75px" height="75px" alt="rick_and_morty"/></a>   <a href="https://github.com/elavincho/ReactVentasApp" target="_blank"><img src="https://github.com/elavincho/ReactVentasApp/blob/master/img/imgfakestoreapi.png" width="75px" height="75px" target="_blank" alt="fakestore"/></a>
 
 
 
