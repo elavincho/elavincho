@@ -1,4 +1,4 @@
-![bannerelavincho](bannerelavincho.png)
+![bannerelavincho](https://github.com/elavincho/elavinchoweb/blob/master/assets/images/Software-Development_Banner%20-%20copia%20(2).jpg)
 
 <br>
 
