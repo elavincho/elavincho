@@ -4,7 +4,7 @@
 
 #  Hola, soy David @elavincho 👋
 
-  Soy Estudiante de la Técnicatura Superior en Desarrolo de Software en el IFTS N° 29.  Además de ser Full Stack Developer.  Me gustan los desafios convirtiendo problemas complejos en soluciones simples e intuitivas.  Estoy aprendiendo y haciendo proyectos en Java, Spring, MySQL, JavaScript.
+  Soy Estudiante de la Técnicatura Superior en Desarrolo de Software en el IFTS N° 29.  Además de ser Full Stack Developer.  Me gustan los desafios convirtiendo problemas complejos en soluciones simples e intuitivas.  Estoy aprendiendo y haciendo proyectos en Java, Spring, MySQL, JavaScript, etc.
 <!---
 - 👀 Me gusta programar y los nuevos desafios.
   
