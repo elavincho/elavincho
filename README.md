@@ -4,7 +4,7 @@
 
 #  Hola, soy David @elavincho 👋
 
-  Soy Estudiante de la Técnicatura Superior en Desarrolo de Software en el IFTS N° 29.  Además de ser Full Stack Developer.  Me gustan los desafios convirtiendo problemas complejos en soluciones simples e intuitivas.  Estoy aprendiendo y haciendo proyectos en Java, Spring, MySQL, JavaScript, etc.
+  Soy Estudiante de la Tecnicatura Superior en Desarrollo de Software en el IFTS N° 29.  Además de ser Full Stack Developer.  Me gustan los desafíos convirtiendo problemas complejos en soluciones simples e intuitivas.  Estoy aprendiendo y haciendo proyectos en Java, Spring, MySQL, JavaScript, etc.
 <!---
 - 👀 Me gusta programar y los nuevos desafios.
   
@@ -26,7 +26,7 @@
                     
 <br>
 
-## Estas son mis estadisticas
+## Estas son mis estadísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elavincho&layout=compact&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elavincho&show_icons=true&theme=dark)
