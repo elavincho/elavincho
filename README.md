@@ -36,7 +36,7 @@
 ## Estos son mis proyectos
 
 ### • Aplicación de Windows Forms(.NET Framework) C# + Documentación
-<a href="https://github.com/elavincho/ClubDeportivo" target="blank"><img src="https://github.com/elavincho/ClubDeportivo/blob/master/img/icono_club_deportivo.png" width="75px" height="75px" alt="club_deportivo"/></a>
+<a href="https://github.com/elavincho/ClubDeportivo" target="blank"><img src="https://github.com/elavincho/ClubDeportivo/blob/master/img/Captura_de_pantalla_2.png" width="75px" height="75px" alt="club_deportivo"/></a>
 
 ### • Java + Spring Boot
 
