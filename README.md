@@ -70,7 +70,7 @@
 
 ### • Consumir una API con JavaScript
 
-<a href="https://github.com/elavincho/rickandmortyapi" target="_blank"><img src="https://github.com/elavincho/rickandmortyapi/blob/master/img/logo.png" width="75px" height="75px" alt="rick_and_morty"/></a>   <a href="https://github.com/elavincho/pokeapi" target="_blank"><img src="https://github.com/elavincho/pokeapi/blob/master/img/back.webp" width="50px" height="75px" alt="pokemon"/></a>   <a href="https://github.com/elavincho/InteractiveWeatherApp" target="_blank"><img src="https://github.com/elavincho/InteractiveWeatherApp/blob/master/assets/Captura_de_pantalla_1.png" width="85px" height="85px" alt="weatherapp"/></a>   <a href="https://github.com/elavincho/FakeStoreAPI" target="_blank"><img src="https://github.com/elavincho/FakeStoreAPI/blob/master/img/Captura_de_pantalla_1.png" width="75px" height="75px" alt="fake_store_api"/></a>
+<a href="https://github.com/elavincho/rickandmortyapi" target="_blank"><img src="https://github.com/elavincho/rickandmortyapi/blob/master/img/logo.png" width="75px" height="75px" alt="rick_and_morty"/></a>   <a href="https://github.com/elavincho/pokeapi" target="_blank"><img src="https://github.com/elavincho/pokeapi/blob/master/img/back.webp" width="50px" height="75px" alt="pokemon"/></a>   <a href="https://github.com/elavincho/InteractiveWeatherApp" target="_blank"><img src="https://github.com/elavincho/InteractiveWeatherApp/blob/master/assets/Captura_de_pantalla_1.png" width="85px" height="85px" alt="weatherapp"/></a>   <a href="https://github.com/elavincho/FakeStoreAPI" target="_blank"><img src="https://github.com/elavincho/FakeStoreAPI/blob/master/img/Captura_de_pantalla_1.png" width="80px" height="80px" alt="fake_store_api"/></a>
 
 ### • Consumir una API con React
 
