@@ -76,7 +76,7 @@
 
 <a href="https://github.com/elavincho/ReactRickAndMorty" target="blank"><img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/rick_morty.png" width="75px" height="75px" alt="rick_and_morty"/></a>   <a href="https://github.com/elavincho/ReactVentasApp" target="_blank"><img src="https://github.com/elavincho/ReactVentasApp/blob/master/img/imgfakestoreapi.png" width="75px" height="75px" target="_blank" alt="fakestore"/></a>
 
-### • Angular + Spring
+### • Angular + Spring Boot
 
 <a href="https://github.com/elavincho/SistemaDeExamenes" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="75px" height="75px" alt="sistema examenes"/></a>
 
