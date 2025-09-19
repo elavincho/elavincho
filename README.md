@@ -78,7 +78,7 @@
 
 ### • Angular + Spring Boot
 
-<a href="https://github.com/elavincho/SistemaDeExamenes" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="75px" height="75px" alt="sistema examenes"/></a>
+<a href="https://github.com/elavincho/SistemaDeExamenes" target="blank"><img src="https://github.com/elavincho/SistemaDeExamenes/blob/master/frontend/imagenes/Captura_de_pantalla2.png" width="75px" height="75px" alt="sistema examenes"/></a>
 
 <!---
 elavincho/elavincho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
