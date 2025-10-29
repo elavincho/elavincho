@@ -1,5 +1,5 @@
-![bannerelavincho](https://github.com/elavincho/elavinchoweb/blob/master/assets/images/Software-Development_Banner%20-%20copia%20(2).jpg)
-
+<!--- ![bannerelavincho](https://github.com/elavincho/elavinchoweb/blob/master/assets/images/Software-Development_Banner%20-%20copia%20(2).jpg) ---> 
+<img src="https://github.com/elavincho/elavinchoweb/blob/master/assets/images/Software-Development_Banner%20-%20copia%20(2).jpg" width="" height="" alt="" />
 <br>
 
 #  Hola, soy David @elavincho 👋
