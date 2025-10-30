@@ -1,5 +1,5 @@
 
- ![bannerelavincho](https://ibb.co/jPB7J8vh)
+ ![bannerelavincho](https://i.ibb.co/Q3zsDJF9/banner-ful-stack.jpg)
 
 <br>
 
@@ -31,49 +31,49 @@
 ## Estos son mis proyectos
 
 ### • Aplicación de Windows Forms(.NET Framework) C# + Documentación
-<a href="https://github.com/elavincho/ClubDeportivo" target="_blank"><img src="https://ibb.co/nsH8hQ8v" width="110" height="110" alt="club_deportivo"/></a>
+<a href="https://github.com/elavincho/ClubDeportivo" target="_blank"><img src="https://i.ibb.co/7JwN7rN5/img-video.png" width="110" height="110" alt="club_deportivo"/></a>
 
 ### • Java + Spring Boot
 
-<a href="https://github.com/elavincho/ecommerce" target="_blank"><img src="https://ibb.co/xSnq7vPJ" width="75" height="75" alt="ecommerce"/></a>
-<a href="https://github.com/elavincho/RecepcionEquipos" target="_blank"><img src="https://ibb.co/99TPBnYt" width="115" height="115" alt="recepcion_equipos"/></a>
-<a href="https://github.com/elavincho/SpringBootBiblioteca" target="_blank"><img src="https://ibb.co/60tVQn5g" width="75" height="75" alt="spring_biblioteca"/></a>
+<a href="https://github.com/elavincho/ecommerce" target="_blank"><img src="https://i.ibb.co/SXkw3TWR/Captura-de-pantalla-1.png" width="75" height="75" alt="ecommerce"/></a>
+<a href="https://github.com/elavincho/RecepcionEquipos" target="_blank"><img src="https://i.ibb.co/XZsH6XJ8/img-video.png" width="115" height="115" alt="recepcion_equipos"/></a>
+<a href="https://github.com/elavincho/SpringBootBiblioteca" target="_blank"><img src="https://i.ibb.co/KxsRn0HF/img-video.png" width="100" height="100" alt="spring_biblioteca"/></a>
 
 ### • Java Swing
 
-<a href="https://github.com/elavincho/CalculadoraJavaSwing" target="_blank"><img src="https://ibb.co/cS9m6mPs" width="50" height="75" alt="calculadora"/></a>
-<a href="https://github.com/elavincho/LoginJavaSwing" target="_blank"><img src="https://ibb.co/0jvfkQrH" width="115" height="115" alt="login"/></a>
-<a href="https://github.com/elavincho/PeluqueriaCanina" target="_blank"><img src="https://ibb.co/352z0BgQ" width="100" height="100" alt="pelu_canina"/></a>
-<a href="https://github.com/elavincho/iLIB_Biblioteca" target="_blank"><img src="https://ibb.co/XZBHp3jP" width="110" height="110" alt="ilib"/></a>
-<a href="https://github.com/elavincho/SistemaRolesPermisos" target="_blank"><img src="https://ibb.co/GvxKLkq6" width="80" height="80" alt="roles_permisos"/></a>
+<a href="https://github.com/elavincho/CalculadoraJavaSwing" target="_blank"><img src="https://i.ibb.co/W4kZNvby/img-video.png" width="50" height="75" alt="calculadora"/></a>
+<a href="https://github.com/elavincho/LoginJavaSwing" target="_blank"><img src="https://i.ibb.co/8DtjJX91/img-video.png" width="115" height="115" alt="login"/></a>
+<a href="https://github.com/elavincho/PeluqueriaCanina" target="_blank"><img src="https://i.ibb.co/kVj1hQNv/img-video.png" width="100" height="100" alt="pelu_canina"/></a>
+<a href="https://github.com/elavincho/iLIB_Biblioteca" target="_blank"><img src="https://i.ibb.co/ns2pfn6y/img-video.png" width="110" height="110" alt="ilib"/></a>
+<a href="https://github.com/elavincho/SistemaRolesPermisos" target="_blank"><img src="https://i.ibb.co/DDVxykZJ/img-video.png" width="80" height="80" alt="roles_permisos"/></a>
 
 ### • HTML + CSS + JavaScript
 
-<a href="https://elavinchoweb.netlify.app/" target="_blank"><img src="https://ibb.co/cS9m6mPs" width="75" height="75" alt="elavincho-web"/></a>
-<a href="https://github.com/elavincho/ACCreaciones2.0" target="_blank"><img src="https://ibb.co/gMvxjCTG" width="90" height="90" alt="ac-creaciones"/></a>
-<a href="https://github.com/elavincho/LFConstrucciones" target="_blank"><img src="https://ibb.co/xKPxGZ5R" width="75" height="75" alt="lf-construcciones"/></a>
-<a href="https://github.com/elavincho/CodeDrinks" target="_blank"><img src="https://ibb.co/60pTKGrf" width="75" height="75" alt="codeDrinks"/></a>
+<a href="https://elavinchoweb.netlify.app/" target="_blank"><img src="https://i.ibb.co/9k0MbMJd/logo-elavincho.png" width="75" height="75" alt="elavincho-web"/></a>
+<a href="https://github.com/elavincho/ACCreaciones2.0" target="_blank"><img src="https://i.ibb.co/TBKsv58Z/logo-ac.png" width="90" height="90" alt="ac-creaciones"/></a>
+<a href="https://github.com/elavincho/LFConstrucciones" target="_blank"><img src="https://i.ibb.co/zWjqbdf0/logo-lf.png" width="75" height="75" alt="lf-construcciones"/></a>
+<a href="https://github.com/elavincho/CodeDrinks" target="_blank"><img src="https://i.ibb.co/zVLB3CQ0/logo-code-drinks.png" width="75" height="75" alt="codeDrinks"/></a>
 
 ### • Juegos con JavaScript
 
-<a href="https://github.com/elavincho/TragaMonedas2.0" target="_blank"><img src="https://ibb.co/XZdd8q28" width="95" height="95" alt="tragamonedas"/></a>
-<a href="https://github.com/elavincho/GameOne" target="_blank"><img src="https://ibb.co/C31nqPbw" width="90" height="90" alt="game_2D"/></a>
+<a href="https://github.com/elavincho/TragaMonedas2.0" target="_blank"><img src="https://i.ibb.co/ccppLjgL/tragamonedas.png" width="95" height="95" alt="tragamonedas"/></a>
+<a href="https://github.com/elavincho/GameOne" target="_blank"><img src="https://i.ibb.co/NdVLXT9F/gameone.png" width="90" height="90" alt="game_2D"/></a>
 
 ### • Consumir una API con JavaScript
 
-<a href="https://github.com/elavincho/rickandmortyapi" target="_blank"><img src="https://ibb.co/zk8Xhx7" width="75" height="75" alt="rick_and_morty"/></a>
-<a href="https://github.com/elavincho/pokeapi" target="_blank"><img src="https://ibb.co/xt1bxjVn" width="50" height="75" alt="pokemon"/></a>
-<a href="https://github.com/elavincho/InteractiveWeatherApp" target="_blank"><img src="https://ibb.co/9HchFbY3" width="85" height="85" alt="weatherapp"/></a>
-<a href="https://github.com/elavincho/FakeStoreAPI" target="_blank"><img src="https://ibb.co/cKtbpm4x" width="80" height="80" alt="fake_store_api"/></a>
+<a href="https://github.com/elavincho/rickandmortyapi" target="_blank"><img src="https://i.ibb.co/DqG9DW8/rickandmorty.png" width="75" height="75" alt="rick_and_morty"/></a>
+<a href="https://github.com/elavincho/pokeapi" target="_blank"><img src="https://i.ibb.co/4n8LhTBb/pokemon.png" width="50" height="75" alt="pokemon"/></a>
+<a href="https://github.com/elavincho/InteractiveWeatherApp" target="_blank"><img src="https://i.ibb.co/m5b0L9zF/weatherapp.png" width="85" height="85" alt="weatherapp"/></a>
+<a href="https://github.com/elavincho/FakeStoreAPI" target="_blank"><img src="https://i.ibb.co/20P8LbG5/fakestoreapi.png" width="80" height="80" alt="fake_store_api"/></a>
 
 ### • Consumir una API con React
 
-<a href="https://github.com/elavincho/ReactRickAndMorty" target="_blank"><img src="https://ibb.co/k2hcRzvQ" width="75" height="75" alt="rick_and_morty"/></a>
-<a href="https://github.com/elavincho/ReactVentasApp" target="_blank"><img src="https://ibb.co/rRCZ2FXP" width="75" height="75" alt="fakestore"/></a>
+<a href="https://github.com/elavincho/ReactRickAndMorty" target="_blank"><img src="https://i.ibb.co/VYvB7b52/react-rick.png" width="75" height="75" alt="rick_and_morty"/></a>
+<a href="https://github.com/elavincho/ReactVentasApp" target="_blank"><img src="https://i.ibb.co/bMSr5QGh/react-ventas.png" width="75" height="75" alt="fakestore"/></a>
 
 ### • Angular + Spring Boot
 
-<a href="https://github.com/elavincho/SistemaDeExamenes" target="_blank"><img src="https://ibb.co/2YWwtwvm" width="75" height="75" alt="sistema examenes"/></a>
+<a href="https://github.com/elavincho/SistemaDeExamenes" target="_blank"><img src="https://i.ibb.co/rfFg6gxT/Captura-de-pantalla3.png" width="75" height="75" alt="sistema examenes"/></a>
 
 <!---
 elavincho/elavincho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
