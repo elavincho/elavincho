@@ -50,25 +50,25 @@
 ### • HTML + CSS + JavaScript
 
 <a href="https://elavinchoweb.netlify.app/" target="_blank"><img src="https://i.ibb.co/9k0MbMJd/logo-elavincho.png" width="75" height="75" alt="elavincho-web"/></a>
-<a href="https://github.com/elavincho/ACCreaciones2.0" target="_blank"><img src="https://i.ibb.co/TBKsv58Z/logo-ac.png" width="90" height="90" alt="ac-creaciones"/></a>
+<a href="https://github.com/elavincho/ACCreaciones2.0" target="_blank"><img src="https://i.ibb.co/TBKsv58Z/logo-ac.png" width="75" height="75" alt="ac-creaciones"/></a>
 <a href="https://github.com/elavincho/LFConstrucciones" target="_blank"><img src="https://i.ibb.co/zWjqbdf0/logo-lf.png" width="75" height="75" alt="lf-construcciones"/></a>
 <a href="https://github.com/elavincho/CodeDrinks" target="_blank"><img src="https://i.ibb.co/zVLB3CQ0/logo-code-drinks.png" width="75" height="75" alt="codeDrinks"/></a>
 
 ### • Juegos con JavaScript
 
-<a href="https://github.com/elavincho/TragaMonedas2.0" target="_blank"><img src="https://i.ibb.co/hFk65R7s/tragamonedas.png" width="120" height="120" alt="tragamonedas"/></a>
-<a href="https://github.com/elavincho/GameOne" target="_blank"><img src="https://i.ibb.co/NdVLXT9F/gameone.png" width="90" height="90" alt="game_2D"/></a>
+<a href="https://github.com/elavincho/TragaMonedas2.0" target="_blank"><img src="https://i.ibb.co/WvFm9Sn1/Captura-de-pantalla-1.png" width="95" height="95" alt="tragamonedas"/></a>
+<a href="https://github.com/elavincho/GameOne" target="_blank"><img src="https://i.ibb.co/NdVLXT9F/gameone.png" width="95" height="95" alt="game_2D"/></a>
 
 ### • Consumir una API con JavaScript
 
 <a href="https://github.com/elavincho/rickandmortyapi" target="_blank"><img src="https://i.ibb.co/DqG9DW8/rickandmorty.png" width="75" height="75" alt="rick_and_morty"/></a>
-<a href="https://github.com/elavincho/pokeapi" target="_blank"><img src="https://i.ibb.co/4n8LhTBb/pokemon.png" width="50" height="75" alt="pokemon"/></a>
-<a href="https://github.com/elavincho/InteractiveWeatherApp" target="_blank"><img src="https://i.ibb.co/m5b0L9zF/weatherapp.png" width="85" height="85" alt="weatherapp"/></a>
-<a href="https://github.com/elavincho/FakeStoreAPI" target="_blank"><img src="https://i.ibb.co/20P8LbG5/fakestoreapi.png" width="80" height="80" alt="fake_store_api"/></a>
+<a href="https://github.com/elavincho/pokeapi" target="_blank"><img src="https://i.ibb.co/4n8LhTBb/pokemon.png" width="75" height="75" alt="pokemon"/></a>
+<a href="https://github.com/elavincho/InteractiveWeatherApp" target="_blank"><img src="https://i.ibb.co/m5b0L9zF/weatherapp.png" width="75" height="75" alt="weatherapp"/></a>
+<a href="https://github.com/elavincho/FakeStoreAPI" target="_blank"><img src="https://i.ibb.co/20P8LbG5/fakestoreapi.png" width="75" height="75" alt="fake_store_api"/></a>
 
 ### • Consumir una API con React
 
-<a href="https://github.com/elavincho/ReactRickAndMorty" target="_blank"><img src="https://i.ibb.co/VYvB7b52/react-rick.png" width="75" height="75" alt="rick_and_morty"/></a>
+<a href="https://github.com/elavincho/ReactRickAndMorty" target="_blank"><img src="https://i.ibb.co/VYvB7b52/react-rick.png" width="75" height="80" alt="rick_and_morty"/></a>
 <a href="https://github.com/elavincho/ReactVentasApp" target="_blank"><img src="https://i.ibb.co/bMSr5QGh/react-ventas.png" width="75" height="75" alt="fakestore"/></a>
 
 ### • Angular + Spring Boot
