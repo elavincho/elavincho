@@ -56,7 +56,7 @@
 
 ### • Juegos con JavaScript
 
-<a href="https://github.com/elavincho/TragaMonedas2.0" target="_blank"><img src="https://github.com/elavincho/TragaMonedas2.0/blob/master/images/Captura_de_pantalla_1.png" width="75" height="75" alt="tragamonedas"/></a>
+<a href="https://github.com/elavincho/TragaMonedas2.0" target="_blank"><img src="https://github.com/elavincho/TragaMonedas2.0/blob/master/images/tragamonedas.png" width="95" height="95" alt="tragamonedas"/></a>
 <a href="https://github.com/elavincho/GameOne" target="_blank"><img src="https://i.ibb.co/NdVLXT9F/gameone.png" width="95" height="95" alt="game_2D"/></a>
 
 ### • Consumir una API con JavaScript
