@@ -56,12 +56,12 @@
 
 ### • Juegos con JavaScript
 
-<a href="https://github.com/elavincho/TragaMonedas2.0" target="_blank"><img src="https://i.ibb.co/nsQrhtm5/game.png" width="95" height="95" alt="tragamonedas"/></a>
+<a href="https://github.com/elavincho/TragaMonedas2.0" target="_blank"><img src="https://github.com/elavincho/TragaMonedas2.0/blob/master/images/Captura_de_pantalla_1.png" width="75" height="75" alt="tragamonedas"/></a>
 <a href="https://github.com/elavincho/GameOne" target="_blank"><img src="https://i.ibb.co/NdVLXT9F/gameone.png" width="95" height="95" alt="game_2D"/></a>
 
 ### • Consumir una API con JavaScript
 
-<a href="https://github.com/elavincho/rickandmortyapi" target="_blank"><img src="https://i.ibb.co/DqG9DW8/rickandmorty.png" width="75" height="75" alt="rick_and_morty"/></a>
+<a href="https://github.com/elavincho/rickandmortyapi" target="_blank"><img src="https://i.ibb.co/DqG9DW8/rickandmorty.png" width="50" height="50" alt="rick_and_morty"/></a>
 <a href="https://github.com/elavincho/pokeapi" target="_blank"><img src="https://i.ibb.co/4n8LhTBb/pokemon.png" width="75" height="75" alt="pokemon"/></a>
 <a href="https://github.com/elavincho/InteractiveWeatherApp" target="_blank"><img src="https://i.ibb.co/m5b0L9zF/weatherapp.png" width="75" height="75" alt="weatherapp"/></a>
 <a href="https://github.com/elavincho/FakeStoreAPI" target="_blank"><img src="https://i.ibb.co/20P8LbG5/fakestoreapi.png" width="75" height="75" alt="fake_store_api"/></a>
