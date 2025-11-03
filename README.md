@@ -61,7 +61,7 @@
 
 ### • Consumir una API con JavaScript
 
-<a href="https://github.com/elavincho/rickandmortyapi" target="_blank"><img src="https://i.ibb.co/DqG9DW8/rickandmorty.png" width="50" height="50" alt="rick_and_morty"/></a>
+<a href="https://github.com/elavincho/rickandmortyapi" target="_blank"><img src="https://i.ibb.co/DqG9DW8/rickandmorty.png" width="75" height="75" alt="rick_and_morty"/></a>
 <a href="https://github.com/elavincho/pokeapi" target="_blank"><img src="https://i.ibb.co/4n8LhTBb/pokemon.png" width="75" height="75" alt="pokemon"/></a>
 <a href="https://github.com/elavincho/InteractiveWeatherApp" target="_blank"><img src="https://i.ibb.co/m5b0L9zF/weatherapp.png" width="75" height="75" alt="weatherapp"/></a>
 <a href="https://github.com/elavincho/FakeStoreAPI" target="_blank"><img src="https://i.ibb.co/20P8LbG5/fakestoreapi.png" width="75" height="75" alt="fake_store_api"/></a>
