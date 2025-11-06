@@ -41,7 +41,7 @@
 
 ### • Java Swing
 
-<a href="https://github.com/elavincho/CalculadoraJavaSwing" target="_blank"><img src="https://i.ibb.co/W4kZNvby/img-video.png" width="50" height="75" alt="calculadora"/></a>
+<a href="https://github.com/elavincho/CalculadoraJavaSwing" target="_blank"><img src="https://i.ibb.co/prWKFsfY/calculadora.png" width="100" height="75" alt="calculadora"/></a>
 <a href="https://github.com/elavincho/LoginJavaSwing" target="_blank"><img src="https://i.ibb.co/8DtjJX91/img-video.png" width="115" height="115" alt="login"/></a>
 <a href="https://github.com/elavincho/PeluqueriaCanina" target="_blank"><img src="https://i.ibb.co/kVj1hQNv/img-video.png" width="100" height="100" alt="pelu_canina"/></a>
 <a href="https://github.com/elavincho/iLIB_Biblioteca" target="_blank"><img src="https://i.ibb.co/ns2pfn6y/img-video.png" width="110" height="110" alt="ilib"/></a>
