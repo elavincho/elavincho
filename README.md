@@ -21,11 +21,12 @@
 --->                
 <br>
 
+ <!---
 ## Estas son mis estadísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elavincho&layout=compact&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elavincho&show_icons=true&theme=dark)
-
+--->   
 <br>
 
 ## Estos son mis proyectos
