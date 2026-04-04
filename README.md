@@ -50,7 +50,7 @@
 
 ### • HTML + CSS + JavaScript
 
-<a href="https://elavinchoweb.netlify.app/" target="_blank"><img src="https://i.ibb.co/9k0MbMJd/logo-elavincho.png" width="75" height="75" alt="elavincho-web"/></a>
+<a href="https://elavinchoweb.netlify.app/" target="_blank"><img src="https://i.ibb.co/rRJNMLfg/logo.png" width="75" height="75" alt="elavincho-web"/></a>
 <a href="https://github.com/elavincho/ACCreaciones2.0" target="_blank"><img src="https://i.ibb.co/TBKsv58Z/logo-ac.png" width="75" height="75" alt="ac-creaciones"/></a>
 <a href="https://github.com/elavincho/LFConstrucciones" target="_blank"><img src="https://i.ibb.co/zWjqbdf0/logo-lf.png" width="75" height="75" alt="lf-construcciones"/></a>
 <a href="https://github.com/elavincho/CodeDrinks" target="_blank"><img src="https://i.ibb.co/zVLB3CQ0/logo-code-drinks.png" width="75" height="75" alt="codeDrinks"/></a>
