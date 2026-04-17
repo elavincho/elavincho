@@ -57,7 +57,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/elavincho/ClubDeportivo" target="_blank"><img src="https://i.ibb.co/7JwN7rN5/img-video.png" width="110" height="110" alt="club_deportivo"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/ClubDeportivo" target="_blank"><img src="https://i.ibb.co/7JwN7rN5/img-video.png" width="100" height="100" alt="club_deportivo"/></a></td>
   </tr>
 </table>
 
@@ -65,8 +65,8 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/elavincho/ecommerce" target="_blank"><img src="https://i.ibb.co/SXkw3TWR/Captura-de-pantalla-1.png" width="75" height="75" alt="ecommerce"/></a></td>
-    <td align="center"><a href="https://github.com/elavincho/RecepcionEquipos" target="_blank"><img src="https://i.ibb.co/XZsH6XJ8/img-video.png" width="115" height="115" alt="recepcion_equipos"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/ecommerce" target="_blank"><img src="https://i.ibb.co/SXkw3TWR/Captura-de-pantalla-1.png" width="100" height="100" alt="ecommerce"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/RecepcionEquipos" target="_blank"><img src="https://i.ibb.co/XZsH6XJ8/img-video.png" width="100" height="100" alt="recepcion_equipos"/></a></td>
     <td align="center"><a href="https://github.com/elavincho/SpringBootBiblioteca" target="_blank"><img src="https://i.ibb.co/KxsRn0HF/img-video.png" width="100" height="100" alt="spring_biblioteca"/></a></td>
   </tr>
 </table>
@@ -75,11 +75,11 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/elavincho/CalculadoraJavaSwing" target="_blank"><img src="https://i.ibb.co/prWKFsfY/calculadora.png" width="100" height="75" alt="calculadora"/></a></td>
-    <td align="center"><a href="https://github.com/elavincho/LoginJavaSwing" target="_blank"><img src="https://i.ibb.co/8DtjJX91/img-video.png" width="115" height="115" alt="login"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/CalculadoraJavaSwing" target="_blank"><img src="https://i.ibb.co/prWKFsfY/calculadora.png" width="100" height="100" alt="calculadora"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/LoginJavaSwing" target="_blank"><img src="https://i.ibb.co/8DtjJX91/img-video.png" width="100" height="100" alt="login"/></a></td>
     <td align="center"><a href="https://github.com/elavincho/PeluqueriaCanina" target="_blank"><img src="https://i.ibb.co/kVj1hQNv/img-video.png" width="100" height="100" alt="pelu_canina"/></a></td>
-    <td align="center"><a href="https://github.com/elavincho/iLIB_Biblioteca" target="_blank"><img src="https://i.ibb.co/ns2pfn6y/img-video.png" width="110" height="110" alt="ilib"/></a></td>
-    <td align="center"><a href="https://github.com/elavincho/SistemaRolesPermisos" target="_blank"><img src="https://i.ibb.co/DDVxykZJ/img-video.png" width="80" height="80" alt="roles_permisos"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/iLIB_Biblioteca" target="_blank"><img src="https://i.ibb.co/ns2pfn6y/img-video.png" width="100" height="100" alt="ilib"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/SistemaRolesPermisos" target="_blank"><img src="https://i.ibb.co/DDVxykZJ/img-video.png" width="100" height="100" alt="roles_permisos"/></a></td>
   </tr>
 </table>
 
@@ -97,8 +97,8 @@
 ### • Juegos con JavaScript
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/elavincho/TragaMonedas2.0" target="_blank"><img src="https://github.com/elavincho/TragaMonedas2.0/blob/master/images/tragamonedas.png" width="95" height="95" alt="tragamonedas"/></a></td>
-    <td align="center"><a href="https://github.com/elavincho/GameOne" target="_blank"><img src="https://i.ibb.co/NdVLXT9F/gameone.png" width="95" height="95" alt="game_2D"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/TragaMonedas2.0" target="_blank"><img src="https://github.com/elavincho/TragaMonedas2.0/blob/master/images/tragamonedas.png" width="100" height="100" alt="tragamonedas"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/GameOne" target="_blank"><img src="https://i.ibb.co/NdVLXT9F/gameone.png" width="100" height="100" alt="game_2D"/></a></td>
   </tr>
 </tr>
 </table>
