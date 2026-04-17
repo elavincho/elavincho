@@ -75,7 +75,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/elavincho/CalculadoraJavaSwing" target="_blank"><img src="https://i.ibb.co/prWKFsfY/calculadora.png" width="75" height="100" alt="calculadora"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/CalculadoraJavaSwing" target="_blank"><img src="https://i.ibb.co/prWKFsfY/calculadora.png" width="75" height="75" alt="calculadora"/></a></td>
     <td align="center"><a href="https://github.com/elavincho/LoginJavaSwing" target="_blank"><img src="https://i.ibb.co/8DtjJX91/img-video.png" width="75" height="75" alt="login"/></a></td>
     <td align="center"><a href="https://github.com/elavincho/PeluqueriaCanina" target="_blank"><img src="https://i.ibb.co/kVj1hQNv/img-video.png" width="75" height="75" alt="pelu_canina"/></a></td>
     <td align="center"><a href="https://github.com/elavincho/iLIB_Biblioteca" target="_blank"><img src="https://i.ibb.co/ns2pfn6y/img-video.png" width="75" height="75" alt="ilib"/></a></td>
