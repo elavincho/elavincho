@@ -57,7 +57,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/elavincho/ClubDeportivo" target="_blank"><img src="https://i.ibb.co/7JwN7rN5/img-video.png" width="100" height="100" alt="club_deportivo"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/ClubDeportivo" target="_blank"><img src="https://i.ibb.co/7JwN7rN5/img-video.png" width="75" height="75" alt="club_deportivo"/></a></td>
   </tr>
 </table>
 
@@ -65,9 +65,9 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/elavincho/ecommerce" target="_blank"><img src="https://i.ibb.co/SXkw3TWR/Captura-de-pantalla-1.png" width="100" height="100" alt="ecommerce"/></a></td>
-    <td align="center"><a href="https://github.com/elavincho/RecepcionEquipos" target="_blank"><img src="https://i.ibb.co/XZsH6XJ8/img-video.png" width="100" height="100" alt="recepcion_equipos"/></a></td>
-    <td align="center"><a href="https://github.com/elavincho/SpringBootBiblioteca" target="_blank"><img src="https://i.ibb.co/KxsRn0HF/img-video.png" width="100" height="100" alt="spring_biblioteca"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/ecommerce" target="_blank"><img src="https://i.ibb.co/SXkw3TWR/Captura-de-pantalla-1.png" width="75" height="75" alt="ecommerce"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/RecepcionEquipos" target="_blank"><img src="https://i.ibb.co/XZsH6XJ8/img-video.png" width="75" height="75" alt="recepcion_equipos"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/SpringBootBiblioteca" target="_blank"><img src="https://i.ibb.co/KxsRn0HF/img-video.png" width="75" height="75" alt="spring_biblioteca"/></a></td>
   </tr>
 </table>
 
@@ -97,8 +97,8 @@
 ### • Juegos con JavaScript
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/elavincho/TragaMonedas2.0" target="_blank"><img src="https://github.com/elavincho/TragaMonedas2.0/blob/master/images/tragamonedas.png" width="100" height="100" alt="tragamonedas"/></a></td>
-    <td align="center"><a href="https://github.com/elavincho/GameOne" target="_blank"><img src="https://i.ibb.co/NdVLXT9F/gameone.png" width="100" height="100" alt="game_2D"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/TragaMonedas2.0" target="_blank"><img src="https://github.com/elavincho/TragaMonedas2.0/blob/master/images/tragamonedas.png" width="75" height="75" alt="tragamonedas"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/GameOne" target="_blank"><img src="https://i.ibb.co/NdVLXT9F/gameone.png" width="75" height="75" alt="game_2D"/></a></td>
   </tr>
 </tr>
 </table>
@@ -118,7 +118,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/elavincho/ReactRickAndMorty" target="_blank"><img src="https://i.ibb.co/VYvB7b52/react-rick.png" width="75" height="80" alt="rick_and_morty"/></a></td>
+    <td align="center"><a href="https://github.com/elavincho/ReactRickAndMorty" target="_blank"><img src="https://i.ibb.co/VYvB7b52/react-rick.png" width="75" height="75" alt="rick_and_morty"/></a></td>
     <td align="center"><a href="https://github.com/elavincho/ReactVentasApp" target="_blank"><img src="https://i.ibb.co/bMSr5QGh/react-ventas.png" width="75" height="75" alt="fakestore"/></a></td>
   </tr>
 </table>
