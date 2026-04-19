@@ -1,6 +1,4 @@
-
  ![bannerelavincho](https://i.ibb.co/Q3zsDJF9/banner-ful-stack.jpg)
-
 
 
 #  Hola, soy David @elavincho 👋
