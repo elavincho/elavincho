@@ -55,7 +55,7 @@
   </tr>
 </table>
 
-### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java"/>Java + <img src="https://i.ibb.co/gFMrQ3FQ/spring.webp" alt="spring" width="20" height="20"/>Spring Boot
+### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java"/>&nbsp;Java + <img src="https://i.ibb.co/gFMrQ3FQ/spring.webp" alt="spring" width="20" height="20"/>&nbsp;Spring Boot
 
 <table>
   <tr>
@@ -65,7 +65,7 @@
   </tr>
 </table>
 
-### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java"/>Java Swing
+### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java"/>&nbsp;Java Swing
 
 <table>
   <tr>
@@ -77,7 +77,7 @@
   </tr>
 </table>
 
-### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="20" height="20" alt="HTML5"/>HTML + <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" height="20" alt="CSS3"/>CSS + <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript"/>JavaScript
+### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="20" height="20" alt="HTML5"/>&nbsp;HTML + <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" height="20" alt="CSS3"/>&nbsp;CSS + <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript"/>&nbsp;JavaScript
 
 <table>
   <tr>
@@ -88,7 +88,7 @@
   </tr>
 </table>
 
-### • Juegos con <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript"/>JavaScript
+### • Juegos con <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript"/>&nbsp;JavaScript
 <table>
   <tr>
     <td align="center"><a href="https://github.com/elavincho/TragaMonedas2.0" target="_blank"><img src="https://github.com/elavincho/TragaMonedas2.0/blob/master/images/tragamonedas.png" width="75" height="75" alt="tragamonedas"/></a></td>
@@ -97,7 +97,7 @@
 </tr>
 </table>
 
-### • Consumir una API con <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript"/>JavaScript
+### • Consumir una API con <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript"/>&nbsp;JavaScript
 
 <table>
   <tr>
@@ -108,7 +108,7 @@
   </tr>
 </table>
 
-### • Consumir una API con <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="20" height="20" alt="React" />React
+### • Consumir una API con <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="20" height="20" alt="React" />&nbsp;React
 
 <table>
   <tr>
@@ -117,7 +117,7 @@
   </tr>
 </table>
 
-### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="20" height="20" alt="Angular" />Angular + <img src="https://i.ibb.co/gFMrQ3FQ/spring.webp" alt="spring" width="20" height="20"/>Spring Boot
+### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="20" height="20" alt="Angular" />&nbsp;Angular + <img src="https://i.ibb.co/gFMrQ3FQ/spring.webp" alt="spring" width="20" height="20"/>&nbsp;Spring Boot
 
 <table>
   <tr>
