@@ -55,7 +55,7 @@
   </tr>
 </table>
 
-### • Java + Spring Boot
+### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java"/>Java + <img src="https://i.ibb.co/gFMrQ3FQ/spring.webp" alt="spring" width="20" height="20"/>Spring Boot
 
 <table>
   <tr>
