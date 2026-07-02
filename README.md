@@ -47,11 +47,28 @@
 
 ## Estos son mis proyectos
 
-### • Aplicación de Node.js + Express + MongoDB + Documentación
+### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="20" height="20" alt="React" />&nbsp;React + Documentación
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/elavincho/pfo2-react" target="_blank"><img src="https://i.ibb.co/jkWphmzQ/PFO2-React.png" width="75" height="75" alt="PFO2 React"></td>
+ <td align="center"><a href="https://github.com/elavincho/Primer_TP_Grupal_Front" target="_blank"><img src="https://i.ibb.co/39Q4SRb3/TP2-React.png" width="75" height="75" alt="TP2 React"></td>
+  </tr>
+</table>
+
+### • Node.js + Express + MongoDB + Documentación
 
 <table>
   <tr>
     <td align="center"><a href="https://github.com/elavincho/TodoStockBackendFinal" target="_blank"><img src="https://i.ibb.co/QjJmMygH/Todo-Stock.png" width="75" height="75" alt="Todo Stock"></td>
+  </tr>
+</table>
+
+### • Android Studio + Kotlin + Documentación
+
+<table>
+  <tr>
+    <td align="center"><a href="" target="_blank"><img src="" width="75" height="75" alt="Club Deportivo App"></td>
   </tr>
 </table>
 
