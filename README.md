@@ -47,6 +47,14 @@
 
 ## Estos son mis proyectos
 
+### • Aplicación de Node.js + Express + MongoDB + Documentación
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/elavincho/TodoStockBackendFinal" target="_blank"><img src="https://i.ibb.co/QjJmMygH/Todo-Stock.png" width="75" height="75" alt="Todo Stock"></td>
+  </tr>
+</table>
+
 ### • Aplicación de Windows Forms (.NET Framework) C# + Documentación
 
 <table>
