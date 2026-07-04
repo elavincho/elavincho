@@ -47,7 +47,7 @@
 
 ## Estos son mis proyectos
 
-### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="20" height="20" alt="React" />&nbsp;React
+### •   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="20" height="20" alt="React" />&nbsp; React
 
 <table>
   <tr>
@@ -81,7 +81,7 @@
   </tr>
 </table>
 
-### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java"/>&nbsp;Java + <img src="https://i.ibb.co/gFMrQ3FQ/spring.webp" alt="spring" width="20" height="20"/>&nbsp;Spring Boot
+### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java"/>&nbsp; Java + <img src="https://i.ibb.co/gFMrQ3FQ/spring.webp" alt="spring" width="20" height="20"/>&nbsp; Spring Boot + <img src="https://i.ibb.co/MkfVCthd/thymeleaf.png" alt="spring" width="20" height="20"/>&nbsp; Thymeleaf
 
 <table>
   <tr>
