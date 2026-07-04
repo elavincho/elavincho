@@ -65,14 +65,14 @@
   </tr>
 </table>
 
-### • Android Studio + Kotlin + Documentación
+### • Android Studio + Kotlin
 
 <table>
   <tr>
-    <td align="center"><a href="https://i.ibb.co/bjZB6QMP/Club-deportivo-app.png" target="_blank"><img src="" width="75" height="75" alt="Club Deportivo App"></td>
+    <td align="center"><a href="https://github.com/elavincho/ClubDeportivoApp" target="_blank"><img src="https://i.ibb.co/bjZB6QMP/Club-deportivo-app.png" width="75" height="125" alt="Club Deportivo App"></td>
   </tr>
 </table>
-     
+
 ### • Aplicación de Windows Forms (.NET Framework) C# + Documentación
 
 <table>
