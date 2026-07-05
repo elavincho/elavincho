@@ -57,7 +57,7 @@
   </tr>
 </table>
   
-### • Node.js + Express + MongoDB + Documentación
+### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="20" height="20" alt="Node" />&nbsp;Node.js + <img src="https://i.ibb.co/hFyjC2vH/expressjs-logo-png-svg.webp" width="20" height="20" alt="express" />&nbsp;Express + <img src="https://i.ibb.co/d0XxWKhr/mongo-db-1.png" width="20" height="20" alt="mongo" />&nbsp;MongoDB + Documentación
 
 <table>
   <tr>
