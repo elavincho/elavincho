@@ -71,6 +71,7 @@
   <tr>
        <td align="center"><a href="https://github.com/elavincho/ACCreaciones2.0" target="_blank"><img src="https://i.ibb.co/4Zc9hw1h/ac-creaciones.png" width="75" height="125" alt="AC-Creaciones"></td>
        <td align="center"><a href="https://github.com/elavincho/ClubDeportivoApp" target="_blank"><img src="https://i.ibb.co/bjZB6QMP/Club-deportivo-app.png" width="75" height="125" alt="Club Deportivo App"></td>
+        <td align="center"><a href="https://github.com/elavincho/CodeDrinksApp" target="_blank"><img src="https://i.ibb.co/HfRs3p6d/code-drinks-app.png" width="75" height="125" alt="code_drinks_app"></td>
   </tr>
 </table>
 
