@@ -65,7 +65,7 @@
   </tr>
 </table>
 
-### • Android Studio + Kotlin
+### • <img src="https://i.ibb.co/gF4kd6H4/Android-Studio-Logo.webp" width="20" height="20" alt="android" />&nbsp;Android Studio + <img src="https://i.ibb.co/0y4gL5R5/kotlin.png" width="20" height="20" alt="kotlin" />&nbsp;Kotlin
 
 <table>
   <tr>
