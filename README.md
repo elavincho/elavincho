@@ -73,7 +73,7 @@
   </tr>
 </table>
 
-### • Aplicación de Windows Forms (.NET Framework) C# + Documentación
+### • Aplicación de Windows Forms <img src="https://i.ibb.co/zh8sv8gh/punto-net.png" width="20" height="20" alt="punto_net" />&nbsp;(.NET Framework) <img src="https://i.ibb.co/Xx3RwQyx/Csharp.png" width="20" height="20" alt="Csharp" />&nbsp;C# + Documentación
 
 <table>
   <tr>
