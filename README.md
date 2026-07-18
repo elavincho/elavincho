@@ -54,6 +54,7 @@
     <td align="center"><a href="https://github.com/elavincho/landing-codex" target="_blank"><img src="https://i.ibb.co/9LDVWC8/landing-codex.png" alt="landing codex" width="75" height="75"></td>
      <td align="center"><a href="https://github.com/elavincho/landing-cursor" target="_blank"><img src="https://i.ibb.co/Y7Bg0Swq/landing-cursor.png" alt="landing cursor" width="75" height="75"></td>
  <td align="center"><a href="https://github.com/elavincho/TP2-Front-React" target="_blank"><img src="https://i.ibb.co/39Q4SRb3/TP2-React.png" width="75" height="75" alt="TP2 React"></td>
+  <td align="center"><a href="https://github.com/elavincho/FrontControlTaxi" target="_blank"><img src="https://i.ibb.co/C3HG4K1t/img-4.png" width="75" height="75" alt="Control Taxi"></td>
   </tr>
 </table>
   
