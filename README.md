@@ -15,6 +15,7 @@
   <tr>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/></td>
     <td><img src="https://i.ibb.co/gFMrQ3FQ/spring.webp" alt="spring" width="45" height="45" /></td>
+    <td><img src="https://i.ibb.co/MkfVCthd/thymeleaf.png" alt="thymeleaf" width="45" height="45" /></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></td>
@@ -34,6 +35,12 @@
     <td align="center"><img src="https://i.ibb.co/d0XxWKhr/mongo-db-1.png" width="36" height="36" alt="mongo" /></td>
  </tr>
   </table>
+  <table>
+ <tr> 
+   <td align="center"><img src="https://i.ibb.co/gF4kd6H4/Android-Studio-Logo.webp" width="36" height="36" alt="Android Studio"/></td>
+   <td align="center"><img src="https://i.ibb.co/0y4gL5R5/kotlin.png" width="36" height="36" alt="kotlin"/></td>
+</tr>
+</table>
  <table>
  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></td>
