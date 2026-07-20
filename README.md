@@ -59,6 +59,9 @@
  <table>
  <tr> 
    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code"/></td>
+  <td align="center"><img src="https://i.ibb.co/60Zc4L0h/Apache-Net-Beans-Logo-svg.webp" width="36" height="36" alt="net-beans"/></td>
+  <td align="center"><img src="https://i.ibb.co/RGNzyRpR/Intelli-J-IDEA-Icon-svg.webp" width="36" height="36" alt="intelli-J"/></td>
+  <td align="center"><img src="https://i.ibb.co/JW3J5fyx/visual-studio.webp" width="36" height="36" alt="visual-studio"/></td>
 </tr>
 </table>
 
