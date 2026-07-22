@@ -66,14 +66,6 @@
 </table>
 
 
- <!---
-## Estas son mis estadísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elavincho&layout=compact&theme=dark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elavincho&show_icons=true&theme=dark)
---->   
-
-
 ## Estos son mis proyectos
 
 ### •   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="20" height="20" alt="React" />&nbsp; React
@@ -186,4 +178,11 @@
 </table>
 
 
+
+ <!---
+## Estas son mis estadísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elavincho&layout=compact&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elavincho&show_icons=true&theme=dark)
+--->   
 
