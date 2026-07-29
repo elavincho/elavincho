@@ -126,7 +126,7 @@
   </tr>
 </table>
 
-### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java"/>&nbsp;Java Swing
+### • <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java"/>&nbsp;Java Swing + <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="mysql" width="20" height="20"/>&nbsp; MySQL
 
 <table>
   <tr>
