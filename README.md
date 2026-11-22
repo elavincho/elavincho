@@ -87,7 +87,7 @@
   <tr>
     <td align="center"><a href="https://github.com/elavincho/ControlTaxi1.0" target="_blank"><img src="https://i.ibb.co/C3HG4K1t/img-4.png" width="75" height="75" alt="Control Taxi"></td>
     <td align="center"><a href="https://ingles-vocab-master.vercel.app/" target="_blank"><img src="https://i.ibb.co/TDnFkD5B/vocab-master.png" width="75" height="75" alt="Vocab_Master"></td>
-    <td align="center"><a href="https://github.com/elavincho/proyecto_ifts_2" target="_blank"><img src="https://i.ibb.co/SDCBhGd9/ifts29.png" width="75" height="75" alt="Vocab_Master"></td>
+    <td align="center"><a href="https://github.com/elavincho/proyecto_ifts_2" target="_blank"><img src="https://i.ibb.co/HLpCLNB6/Icono-3-D-brillante-IFTS-2.png" width="75" height="75" alt="icono_ifts_2"></td>
   </tr>
 </table>
 
